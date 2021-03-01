@@ -1,7 +1,8 @@
 {
-  "headers":{
-  "/*":{
-  "X-Author": "annareshetnikova2"
-  }
-  }
-  }
+  "headers": {
+  "/*" : {
+  "X-Author": "annareshetnikova2",
+  "Access-Control-Allow-Origin": "*"
+     }
+   }
+ }
